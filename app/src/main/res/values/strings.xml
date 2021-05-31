@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejercicio1</string>
+    <string name="btn_enviar1">Enviar</string>
+    <string name="lbl_Nombre">Nombre</string>
+    <string name="lbl_Apellido">Apellido</string>
+    <string name="lbl_Email">Email</string>
+</resources>
